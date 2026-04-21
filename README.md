@@ -49,6 +49,8 @@ npx serve .
 
 ## Deployment
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/78eab4b3-96b4-4e2f-b24f-cf3c4d4bbcfc/deploy-status)](https://app.netlify.com/projects/mackrichardson/deploys)
+
 Netlify watches the `main` branch. Pushing to `main` triggers an automatic deploy. There is no build command — Netlify serves the repository root directly.
 
 **Netlify build settings:**
