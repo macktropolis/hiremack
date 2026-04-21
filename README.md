@@ -52,8 +52,8 @@ npx serve .
 Netlify watches the `main` branch. Pushing to `main` triggers an automatic deploy. There is no build command — Netlify serves the repository root directly.
 
 **Netlify build settings:**
-- Build command: *(none)*
-- Publish directory: `/`
+- Build command: *(leave blank)*
+- Publish directory: `.`
 
 ---
 
